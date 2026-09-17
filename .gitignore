@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.DS_Store
+phobert_sentiment_model/model.safetensors
